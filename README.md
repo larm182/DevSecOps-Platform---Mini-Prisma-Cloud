@@ -190,9 +190,6 @@ DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/REAL_WEBHOOK
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/REAL/SLACK/WEBHOOK
 ```
 
-## 📝 Licencia
-
-MIT License - ver archivo LICENSE para detalles.
 
 ## 🤝 Contribución
 
