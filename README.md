@@ -205,3 +205,12 @@ Para soporte y preguntas:
 - Crear issue en GitHub
 - Documentación: http://localhost:8000/docs
 - Logs: `docker-compose logs`
+
+![1750194497472](https://github.com/user-attachments/assets/baceb82a-39e0-4366-96c4-40e9b5f4f094)
+
+![1750194498055](https://github.com/user-attachments/assets/33331325-cbb6-4ab7-9e70-cf6d615130a7)
+
+![1750194498205](https://github.com/user-attachments/assets/8563e034-5536-4813-88c7-bf49342388f1)
+
+
+
